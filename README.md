@@ -1,4 +1,3 @@
-````markdown
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:4F46E5,25:6366F1,50:7C3AED,75:8B5CF6,100:A855F7&text=Kaif%20Shaikh&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
